@@ -8,12 +8,16 @@ I. Project Title
 StudyTask: A Simple Student Task and Deadline Tracker
 II. Problem Statement
 Students in Pisay often have several assignments, projects, quizzes, and other school tasks to complete. Because of this, some students may forget deadlines or have difficulty keeping track of which tasks they need to finish first. Writing tasks on different pieces of paper or remembering everything mentally can also make it harder to organize schoolwork.
+
 This project aims to create a simple task and deadline tracker that students can use to organize their school requirements. The program will allow users to enter their tasks, subjects, deadlines, and completion status. It will then display the tasks in an organized way so students can easily see what they still need to accomplish.
+
 This problem is important because better organization can help students keep track of their responsibilities and reduce the chance of forgetting important school tasks.
+
 III. Project Objectives
 To create a simple program that allows students to record at least 10 school tasks with their subject, task name, and deadline.
 To allow users to mark tasks as completed or incomplete so they can easily monitor their progress.
 To provide an organized list of pending tasks that students can check whenever they need to review their school requirements.
+
 IV. Planned Features
 The program will have the following features:
 Add a new school task.
@@ -24,6 +28,7 @@ Display all saved tasks.
 Mark a task as completed.
 Display pending and completed tasks separately.
 Allow the user to exit the program.
+
 V. Planned Inputs and Outputs
 Inputs
 The user will provide:
@@ -91,8 +96,12 @@ Repeat the menu until the user chooses "Exit."
 END
 
 Computational Thinking Used
+
 Decomposition: The problem is divided into smaller tasks such as adding, viewing, and completing school requirements.
+
 Pattern Recognition: Each school task has similar information, such as a subject, task name, deadline, and status.
+
 Abstraction: The program only stores information needed to organize the student's tasks.
+
 Algorithm Design: The program follows a step-by-step process based on the user's selected menu option.
 
